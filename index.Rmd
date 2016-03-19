@@ -1,14 +1,15 @@
 ---
-title       : BMI app to Calculate Body Mass Index
-subtitle    : Data Product for health tracking on the GO!
-author      : Monnappa Somanna
-job         : 
-framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
-highlighter : highlight.js  # {highlight.js, prettify, highlight}
-hitheme     : tomorrow      # 
-widgets     : []            # {mathjax, quiz, bootstrap}
-mode        : selfcontained # {standalone, draft}
-knit        : slidify::knit2slides
+title: "BMI app to Calculate Body Mass Index"
+author: "Monnappa Somanna"
+highlighter: highlight.js
+output: pdf_document
+job: null
+knit: slidify::knit2slides
+mode: selfcontained
+hitheme: tomorrow
+subtitle: Data Product for health tracking on the GO!
+framework: io2012
+widgets: []
 ---
 
 ## BMI App to Calculate Body Mass Index(BMI)*
@@ -69,8 +70,5 @@ Thank you for using the BMI APP
 For any questions or clarifications contact me at abc@bmiapp.com
 
 Customer support Toll Free: 1800-BMI-APP
-
-
-
 
 
